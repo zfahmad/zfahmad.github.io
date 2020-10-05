@@ -1,7 +1,3 @@
-RewriteEngine On
-RewriteBase /
-
-RewriteCond %{HTTPS} !=on
-RewriteCond %{HTTP_HOST} ^zfahmad\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.zfahmad\.com$
-RewriteRule .* https://zfahmad.com%{REQUEST_URI} [R=301,L]
+Rewrite Engine ON
+Rewrite Cond %{HTTPS} off
+Rewrite Rule ^(.*)$ https://%(HTTP-HOST)%{Request-URI} [L,R=301]
