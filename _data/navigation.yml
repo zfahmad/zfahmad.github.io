@@ -1,10 +1,10 @@
-- name: Home
+- name: home
   link: /
-- name: CV
+- name: cv
   link: /cv.html
-- name: Publications
+- name: publications
   link: /publications.html
-- name: Blog
+- name: blog
   link: /blog.html
-- name: Contact
+- name: contact
   link: /contact.html
