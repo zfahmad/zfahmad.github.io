@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="shortcut icon" href="assets/images/face.ico" />
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+  <div class="header">
+    {% include top_navigation.html %}
+  </div>
+  {{ content }}
+  </body>
+</html>
