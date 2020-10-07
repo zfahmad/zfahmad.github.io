@@ -84,7 +84,7 @@ body {
   font-size: 40px;
   width: 40px;
   text-decoration: none;
-  margin: 5px 2px;
+  margin: 5px 5px;
   border-radius: 100%; }
 
 .fa:link {
@@ -125,14 +125,14 @@ body {
 .icon_image {
   border-radius: 80%; }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 768px) {
   body {
     padding-top: 0px;
-    font-size: 10pt; }
+    font-size: 12pt; }
 
   .nav_bar {
     padding: 0;
-    font-size: 10pt;
+    font-size: 12pt;
     text-align: center;
     list-style: inside;
     margin-right: 0px;
@@ -150,4 +150,14 @@ body {
     background-color: #f8f8ff; }
 
   .main_title_container {
-    padding-top: 60px; } }
+    padding-top: 60px; }
+
+  .social {
+    margin: auto;
+    font-size: 40px; }
+
+  .container {
+    padding: 30px; }
+
+  .sub_container {
+    padding: 30px; } }
