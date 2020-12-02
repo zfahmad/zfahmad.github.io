@@ -14,9 +14,19 @@ title: Publications
    *{{ pub.conf }}*
 {% endfor %}
 
-## Refereed Journal
+## Refereed Journals
 
 {% for pub in site.data.journals %}
+1. [{{ pub.name }}]({{ pub.url }})
+
+   *{{ pub.authors }}*
+
+   *{{ pub.conf }}*
+{% endfor %}
+
+## Workshops
+
+{% for pub in site.data.workshops %}
 1. [{{ pub.name }}]({{ pub.url }})
 
    *{{ pub.authors }}*

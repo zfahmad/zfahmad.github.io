@@ -30,11 +30,11 @@ body {
 
 .nav_bar a:link {
   text-decoration: none;
-  color: white; }
+  color: #f8f8ff; }
 
 .nav_bar a:visited {
   text-decoration: none;
-  color: white; }
+  color: #f8f8ff; }
 
 .title {
   margin: auto; }
