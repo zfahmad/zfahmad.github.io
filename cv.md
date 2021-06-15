@@ -41,11 +41,11 @@ The most recent PDF of my CV can be found here: [6/15/21](assets/pdfs/Zaheen_CV.
 
 ### Academic Experience
 
-- Graduate Research Assistant &emsp; **May 2014 - Present**
+- Graduate Research Assistant Fellowship &emsp; **May 2014 - Present**
 
   - University of Alberta
 
-- Graduate Teaching Assistant &emsp; **Sep 2013 - Present**
+- Graduate Teaching Assistant &emsp; **Sep 2013 - Dec 2020**
 
   - University of Alberta
 
