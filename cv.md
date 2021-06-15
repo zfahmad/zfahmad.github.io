@@ -15,7 +15,7 @@ The most recent PDF of my CV can be found here: [10/6/20](assets/pdfs/Zaheen_CV.
 
   - University of Alberta
 
-  - Advisor: *Michael Bowling*
+  - Advisors: *Michael Bowling*, *Levi Lelis*
 
 - M.Sc., Computing Science &emsp; **Sep 2013 - Jan 2017**
 
