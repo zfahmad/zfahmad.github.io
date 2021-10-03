@@ -1,7 +1,7 @@
 - name: Monte Carlo Tree Search With Iteratively Refining State Abstractions
   authors: Samuel Sokota, Caleb Ho, Zaheen Farraz Ahmad, J Zico Kolter
   conf: To appear: NeurIPS 2021
-  url:
+  url: ~
 - name: Marginal Utility for Planning in Continuous and Large Discrete Action Spaces
   authors: Zaheen Farraz Ahmad, Levi H. S. Lelis, Michael Bowling
   conf: NeurIPS 2020
