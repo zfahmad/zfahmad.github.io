@@ -5,7 +5,7 @@ title: CV
 
 # Curriculum Vitae
 
-The most recent PDF of my CV can be found here: [03/03/24](assets/pdfs/Zaheen_CV.pdf)
+The most recent PDF of my CV can be found here: [05/06/25](assets/pdfs/Zaheen_CV.pdf)
 
 ## Highlights
 
