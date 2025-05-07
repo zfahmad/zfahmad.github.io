@@ -1,3 +1,0 @@
-assets/images/face.ico filter=lfs diff=lfs merge=lfs -text
-assets/images/face.jpg filter=lfs diff=lfs merge=lfs -text
-assets/images/thumbnail.001.jpeg filter=lfs diff=lfs merge=lfs -text
