@@ -5,13 +5,13 @@ title: CV
 
 # Curriculum Vitae
 
-The most recent PDF of my CV can be found here: [05/06/25](assets/pdfs/Zaheen_CV.pdf)
+The most recent PDF of my CV can be found here: [10/05/25](assets/pdfs/Zaheen_CV.pdf)
 
 ## Highlights
 
 ### Education
 
-- Ph.D., Computing Science &emsp; **Jan 2017 - Present**
+- Ph.D., Computing Science &emsp; **Jan 2017 - Sep 2025**
 
   - University of Alberta
 
