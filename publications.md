@@ -14,7 +14,7 @@ title: Publications
    *{{ pub.conf }}*
 {% endfor %}
 
-## Refereed Journals
+## Journals
 
 {% for pub in site.data.journals %}
 1. [{{ pub.name }}]({{ pub.url }})

@@ -4,6 +4,14 @@ layout: sub
 
 # Contact
 
-  zfahmad \<AT\> ualberta \<DOT\> ca
+  zfahmad @ ualberta . ca
+
+  6-138C
+
+  Department of Computing Science
+
+  University Commons
+
+  University of Alberta
 
   {% include socials.html %}
