@@ -1,4 +1,10 @@
+- name: "Strengthening Integration Between Learning and Search for Planning"
+  authors: Zaheen Farraz Ahmad
+  conf: University of Alberta
+  url:
+
 - name: "Action Selection for Hammer Shots in Curling: Optimization of Non-convex Continous Actions With Stochastic Action Outcomes"
   authors: Zaheen Farraz Ahmad
   conf: University of Alberta
   url: https://arxiv.org/abs/2006.06054
+

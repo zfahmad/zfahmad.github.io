@@ -1,12 +1,12 @@
 - name: Monte Carlo Tree Search With Iteratively Refining State Abstractions
   authors: Samuel Sokota, Caleb Ho, Zaheen Farraz Ahmad, J Zico Kolter
-  conf: NeurIPS 2021
+  conf: Neural Information Processing Systems, 2021
   url: https://proceedings.neurips.cc/paper/2021/file/9b0ead00a217ea2c12e06a72eec4923f-Paper.pdf
 - name: Marginal Utility for Planning in Continuous and Large Discrete Action Spaces
   authors: Zaheen Farraz Ahmad, Levi H. S. Lelis, Michael Bowling
-  conf: NeurIPS 2020
+  conf: Neural Information Processing Systems, 2020
   url: https://arxiv.org/abs/2006.06054
 - name: Action Selection for Hammer Shots in Curling
   authors: Zaheen Farraz Ahmad, Robert Holte, Michael Bowling
-  conf: IJCAI 2016
+  conf: International Joint Conferences on Aritificial Intelligence, 2016
   url: https://www.ijcai.org/Proceedings/16/Papers/086.pdf
