@@ -12,23 +12,29 @@ The most recent PDF of my CV can be found here: [12/24/25](assets/pdfs/Zaheen_CV
 ### Education
 
 Ph.D., Computing Science &emsp; <span style="float:right;"> **Jan 2017 -- Sep 2025**
-  - University of Alberta
-  - Advisors: *Michael Bowling*, *Levi Lelis*
+
+- University of Alberta
+- Advisors: _Michael Bowling_, _Levi Lelis_
 
 M.Sc., Computing Science &emsp; <span style="float:right;">**Sep 2013 -- Jan 2017**
-  - University of Alberta
-  - Advisor: *Robert Holte*
+
+- University of Alberta
+- Advisor: _Robert Holte_
 
 B.Sc. Engg., Computer Science and Engineering &emsp; <span style="float:right;">**Dec 2008 -- Oct 2012**
-  - Islamic University of Technology
-  - Advisor: *Md. Mahbub Alam*
+
+- Islamic University of Technology
+- Advisor: _Md. Mahbub Alam_
 
 ### Professional Experience
-Postdoctoral Scholar &emsp;<span style="float:right;"> **Dec 2025 -- Present**
-  - University of Alberta
 
- Data Science Consultant &emsp;<span style="float:right;"> **Dec 2017 -- Feb 2018**
-  - AB Sciex Pte. Ltd.
+Postdoctoral Scholar &emsp;<span style="float:right;"> **Dec 2025 -- Present**
+
+- University of Alberta
+
+Data Science Consultant &emsp;<span style="float:right;"> **Dec 2017 -- Feb 2018**
+
+- AB Sciex Pte. Ltd.
 
 ### Awards
 
@@ -43,21 +49,29 @@ IUT Scholarship &emsp;<span style="float:right;"> **Dec 2008**
 ### Academic Experience
 
 Graduate Research Assistant Fellowship &emsp;<span style="float:right;"> **May 2014 -- 2025**
-  - University of Alberta
+
+- University of Alberta
 
 Graduate Teaching Assistant &emsp;<span style="float:right;"> **Sep 2013 -- Dec 2020**
-  - University of Alberta
+
+- University of Alberta
 
 Junior Lecturer &emsp;<span style="float:right;"> **Jan 2013 -- July 2013**
-  - Islamic University of Technology
+
+- Islamic University of Technology
 
 ### University Services
 
 Vice-President, Computing Science Graduate Student Association &emsp;<span style="float:right;"> **May 2015 -- Apr 2016**
-  - University of Alberta
 
-Treasurer, IUT Computing Society
-  - Islamic University of Technology
+- University of Alberta
 
-Organizing Member, National ICT Fest
-  - Islamic University of Technology
+Treasurer, IUT Computing Society &emsp;<span style="float:right;"> **Jan 2012 --
+Oct 2012**
+
+- Islamic University of Technology
+
+Organizing Member, National ICT Fest &emsp;<span style="float:right;"> **Sep
+2012**
+
+- Islamic University of Technology
